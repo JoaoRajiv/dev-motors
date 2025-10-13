@@ -18,7 +18,7 @@ A página foi criada para ser **rápida, responsiva e fácil de atualizar**, per
 
 ## 🖼 Prévia
 
-*(Adicione aqui prints da landing page ou um link para a versão hospedada, se disponível)*
+*![Descrição da Imagem](public/Home.png)*
 
 ---
 
